@@ -1,5 +1,5 @@
 ## Evil-Droid Framework . version 0.3 
-    Author: Mascerano Bachir [ dev-labs ]
+   
 
 ## Legal Disclamer:
     The author does not hold any responsibility for the bad use of this tool,
@@ -8,10 +8,7 @@
 ## Description:
     Evil-Droid is a framework that create & generate & embed apk payload to penetrate android platforms
  
-## Screenshot:
-![pic1](https://i.imgur.com/LczO636.png)
 
-![pic2](https://i.imgur.com/mhXxb5Q.png)
 
 <br /><br />
 
@@ -37,5 +34,4 @@
          see options bellow	   
       
 
-## video tutorial: 
-https://www.youtube.com/watch?v=8u-NHeTdPRE&feature=share old version
+
