@@ -20,16 +20,26 @@
 	5 - Apktool
 	6 - Zipalign
 
-## Download/Config/Usage:
-    1? - Download the tool from github
-         git clone https://github.com/M4sc3r4n0/Evil-Droid.git
+## Befor You Start :
 
-    2? - Set script execution permission
+   1. sudo apt install  metasploit-framework xterm zenity aapt apktool zipalign default-jdk smali unzip libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1
+ 
+   2. update-alternatives --config java 
+  
+   3. Select Java 8 
+
+ 
+
+## Download/Config/Usage:
+    1 - Download the tool from github
+         git clone https://github.com/phantombd/Evil-Droid
+
+    2 - Set script execution permission
          cd Evil-Droid
          chmod +x evil-droid
 
 
-    4?- Run Evil-Droid Framework :
+    3- Run Evil-Droid Framework :
        ./evil-droid
          see options bellow	   
       
