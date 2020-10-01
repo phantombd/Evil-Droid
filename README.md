@@ -21,11 +21,11 @@
 	6 - Zipalign
 
 ## Befor You Start :
-   1. sudo apt install  metasploit-framework xterm zenity aapt apktool zipalign default-jdk smali unzip libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1
+    1. sudo apt install  metasploit-framework xterm zenity aapt apktool zipalign default-jdk smali unzip libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1
  
-   2. update-alternatives --config java 
+    2. update-alternatives --config java 
   
-   3. Select Java 8 
+    3. Select Java 8 
 
  
 
