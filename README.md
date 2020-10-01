@@ -40,7 +40,7 @@
 
     3- Run Evil-Droid Framework :
        ./evil-droid
-         see options bellow	   
+        	   
       
 
 
